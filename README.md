@@ -8,6 +8,7 @@ Usage is simple, like this:
 
 
 NSData *jpegData = ...
+
 UIImage *image = [UIImage imageUsingTurboJpegWithData:jpegData];
 
 
@@ -22,4 +23,5 @@ https://github.com/dunkelstern/libturbojpeg-ios/tree/master/TurboAssetLoader
 
 
 Thanks to everyone, and regards.
+
 -ryhor
