@@ -15,7 +15,7 @@ UIImage *image = [UIImage imageUsingTurboJpegWithData:jpegData];
 =================
 Important credits
 
-The library is from here:
+The "ready-to-go-already-built-library-for-iOS" is from here:
 https://github.com/dhoerl/PhotoScrollerNetwork
 
 Some code & inspiration from:
